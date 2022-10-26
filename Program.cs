@@ -1,6 +1,7 @@
 ﻿//Michelle Malfabon
-//Aug 16 2022 (absent on 8/11)
-//Peer Review: Wida K.  
+//October 25, 2022
+//Peer Review: Valerie Aguilar
+//Comment: Works Great!
 //Description: Created a mad libs poem using 10 variables, user input(console.readline), stored into variables, and printed using concatination.  
 
 

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MalfabonMmini5/1.0.0": {
+        "runtime": {
+          "MalfabonMmini5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MalfabonMmini5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
